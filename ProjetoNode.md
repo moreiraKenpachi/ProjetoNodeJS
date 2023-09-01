@@ -1,0 +1,1 @@
+o projeto node js será feito com prisma e docker.
